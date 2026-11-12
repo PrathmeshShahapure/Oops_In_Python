@@ -21,6 +21,3 @@ numbers = [10, 20, 30]
 test(numbers)
 
 print(numbers)                # [10, 20, 30, 40, 50]
-
-items = cart.get_cart_details()
-print(items)#we lost our original list 
